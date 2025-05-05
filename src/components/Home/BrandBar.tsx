@@ -2,11 +2,11 @@ import Image from 'next/image'
 import React from 'react'
 
 
-import CalvinKlein from '../../../public/BrandLogo/Calvin-Klein.png'
-import Gucci from '../../../public/BrandLogo/Gucci.png'
-import Prada from '../../../public/BrandLogo/Prada.png'
-import VERSACE from '../../../public/BrandLogo/VERSACE.png'
-import Zara from '../../../public/BrandLogo/Zara.png'
+import CalvinKlein from '@/assets/BrandLogo/Calvin-Klein.png'
+import Gucci from '@/assets/BrandLogo/Gucci.png'
+import Prada from '@/assets/BrandLogo/Prada.png'
+import VERSACE from '@/assets/BrandLogo/VERSACE.png'
+import Zara from '@/assets/BrandLogo/Zara.png'
 
 export default function BrandBar() {
 

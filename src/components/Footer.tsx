@@ -3,10 +3,10 @@ import { Button } from "./ui/button"
 import { Mail } from "lucide-react"
 import Image from "next/image"
 
-import twitter from "../../public/SocialIcon/1.png"
-import fb from "../../public/SocialIcon/2.png"
-import ig from "../../public/SocialIcon/3.png"
-import github from "../../public/SocialIcon/4.png"
+import twitter from "@/assets/SocialIcon/1.png"
+import fb from "@/assets/SocialIcon/2.png"
+import ig from "@/assets/SocialIcon/3.png"
+import github from "@/assets/SocialIcon/4.png"
 import { Separator } from "./ui/separator"
 
 

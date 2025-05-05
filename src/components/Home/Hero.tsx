@@ -1,6 +1,6 @@
 import Image from 'next/image'
-import HeroImg from '../../../public/Hero.png'
-import HeroImgMobile from '../../../public/HeroMobile.png'
+import HeroImg from '@/assets/Hero.png'
+import HeroImgMobile from '@/assets/HeroMobile.png'
 import { Button } from '../ui/button'
 import { Separator } from '../ui/separator'
 

@@ -1,8 +1,8 @@
 import Image from 'next/image'
-import Casual from '../../../public/Casual.png'
-import Formal from '../../../public/Formal.png'
-import Party from '../../../public/Party.png'
-import Gym from '../../../public/Gym.png'
+import Casual from '@/assets/Casual.png'
+import Formal from '@/assets/Formal.png'
+import Party from '@/assets/Party.png'
+import Gym from '@/assets/Gym.png'
 export default function BrowseByDressStyle() {
     return (
         <div className="container flex flex-col items-center bg-[#F0F0F0] rounded-[40px] mt-20 px-6 pt-10 pb-[27px] gap-7 lg:pt-[70px] lg:pb-[76px] lg:px-16 lg:gap-16">
